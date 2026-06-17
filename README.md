@@ -29,3 +29,18 @@ Not: Bu web export'u 12.05.2026 tarihli oldugu icin son surum olarak degil, eski
 - `model/tflite/`: Mobil uygulamalar icin TFLite model dosyasi.
 - `model/tfjs-archive-2026-05-12/`: Daha eski web export dosyalari.
 - `samples/`: Modeli denemek icin ornek cicek fotograflari.
+- `dataset/`: Egitimde kullanilan cicek fotograflarinin siniflara ayrilmis zip dosyalari.
+
+## Egitim Veri Seti
+
+Tum egitim fotograflari GitHub'a sinif bazli zip dosyalari olarak eklenmistir:
+
+- `dataset/aycicegi.zip`: 139 fotograf
+- `dataset/diger.zip`: 185 fotograf
+- `dataset/kaktus.zip`: 168 fotograf
+- `dataset/lale.zip`: 190 fotograf
+- `dataset/menekse.zip`: 113 fotograf
+- `dataset/orkide.zip`: 76 fotograf
+- `dataset/papatya.zip`: 65 fotograf
+
+Toplam: 936 fotograf.
