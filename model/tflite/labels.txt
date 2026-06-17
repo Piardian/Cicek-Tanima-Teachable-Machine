@@ -1,0 +1,7 @@
+0 GÜL
+1 Orkide
+2 Papatya
+3 Diğer
+4 Kaktüs
+5 Lale
+6 Menekşe
