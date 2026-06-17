@@ -1,0 +1,51 @@
+﻿[
+    {
+        "Class":  "aycicegi",
+        "Source":  "C:\\Users\\piard\\Desktop\\ayçiçeği",
+        "Photos":  139,
+        "SourceMB":  28.82,
+        "ZipMB":  24.61
+    },
+    {
+        "Class":  "diger",
+        "Source":  "C:\\Users\\piard\\Desktop\\diğer",
+        "Photos":  185,
+        "SourceMB":  37.16,
+        "ZipMB":  36.84
+    },
+    {
+        "Class":  "kaktus",
+        "Source":  "C:\\Users\\piard\\Desktop\\kaktüs",
+        "Photos":  168,
+        "SourceMB":  32.79,
+        "ZipMB":  32.63
+    },
+    {
+        "Class":  "lale",
+        "Source":  "C:\\Users\\piard\\Desktop\\Lale",
+        "Photos":  190,
+        "SourceMB":  31.55,
+        "ZipMB":  31.18
+    },
+    {
+        "Class":  "menekse",
+        "Source":  "C:\\Users\\piard\\Desktop\\Menekşe",
+        "Photos":  113,
+        "SourceMB":  19.12,
+        "ZipMB":  19.03
+    },
+    {
+        "Class":  "orkide",
+        "Source":  "C:\\Users\\piard\\Desktop\\orkide",
+        "Photos":  76,
+        "SourceMB":  11.24,
+        "ZipMB":  11.06
+    },
+    {
+        "Class":  "papatya",
+        "Source":  "C:\\Users\\piard\\Desktop\\Papatya",
+        "Photos":  65,
+        "SourceMB":  18.62,
+        "ZipMB":  18.58
+    }
+]
